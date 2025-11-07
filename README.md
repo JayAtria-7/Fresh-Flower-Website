@@ -1,4 +1,4 @@
-# Blossom Bloom
+# Blossom Bloom(Fresh Flower Website)
 
 A single-page floral boutique experience showcasing bespoke bouquets, artisan services, and contact details with animated micro-interactions.
 
